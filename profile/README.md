@@ -1,9 +1,9 @@
-# 🚀 Nesvier Tech 🌟
+# 🚀 Nesvier Inc. 🌟
 
-Welcome to Nesvier Tech! We are a passionate community of software enthusiasts, data scientists, and AI practitioners dedicated to making a positive impact through technology. Founded by [**Marc Peejay V. Viernes**](https://www.linkedin.com/in/marc-viernes/), our primary goal is to empower and support the community through innovative software solutions and advancements in data science, machine learning, and artificial intelligence.
+Welcome to Nesvier Inc.! We are a passionate community of software enthusiasts, data scientists, and AI practitioners dedicated to making a positive impact through technology. Founded by [**Marc Peejay V. Viernes**](https://www.linkedin.com/in/marc-viernes/), our primary goal is to empower and support the community through innovative software solutions and advancements in data science, machine learning, and artificial intelligence.
 
 ## Our Mission 🌍
-At Nesvier Tech, we believe in the power of technology to transform lives. Our mission is to leverage cutting-edge tools and techniques to address real-world challenges and improve access to education, opportunities, and resources for everyone.
+At Nesvier Inc., we believe in the power of technology to transform lives. Our mission is to leverage cutting-edge tools and techniques to address real-world challenges and improve access to education, opportunities, and resources for everyone.
 
 ## What We Do 🛠️
 - **Software Development:** We develop high-quality software solutions tailored to meet the needs of our users and communities.
@@ -23,4 +23,4 @@ Join us in our mission to harness the power of technology for good! Whether you'
 - **Spread the word:** Share our projects and initiatives with your network and help us reach more people who can benefit from our work.
 - **Collaborate:** If you have ideas for collaboration or projects that align with our mission, we'd love to hear from you!
 
-Together, we can build a brighter future through technology. Welcome to Nesvier Tech! 🌟
+Together, we can build a brighter future through technology. Welcome to Nesvier Inc.! 🌟
